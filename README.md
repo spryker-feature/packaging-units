@@ -7,3 +7,8 @@ Defines if a packaging unit holds a fixed amount of products, or if customer can
 ```
 composer require spryker-feature/packaging-units
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/product](https://github.com/spryker-feature/product)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
