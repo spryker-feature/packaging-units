@@ -7,7 +7,7 @@
     "prefer-stable": true,
     "require": {
         "php": ">=7.3",
-        "spryker-shop/product-packaging-unit-widget": "^1.1.0",
+        "spryker-shop/product-packaging-unit-widget": "^1.2.0",
         "spryker/product-offer-packaging-unit": "^0.1.0",
         "spryker/product-packaging-unit": "^4.5.0",
         "spryker/product-packaging-unit-data-import": "^2.0.0",
@@ -15,7 +15,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202107.x-dev"
+            "dev-master": "202108.x-dev"
         }
     },
     "suggest": {
