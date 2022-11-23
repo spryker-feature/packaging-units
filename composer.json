@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker-shop/product-packaging-unit-widget": "^1.2.0",
         "spryker/product-packaging-unit": "^4.6.0",
         "spryker/product-packaging-unit-data-import": "^2.0.0",
