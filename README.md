@@ -16,4 +16,4 @@ composer require spryker-feature/packaging-units
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [ProductPackagingUnitsBackendApi ^0.2.0](https://github.com/spryker/product-packaging-units-backend-api) (Glue Backend)
+- [ProductPackagingUnitsBackendApi ^1.0.0](https://github.com/spryker/product-packaging-units-backend-api) (Glue Backend)
