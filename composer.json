@@ -10,11 +10,11 @@
         "spryker-shop/product-packaging-unit-widget": "^1.8.0",
         "spryker/product-packaging-unit": "^4.13.0",
         "spryker/product-packaging-unit-data-import": "^2.0.0",
-        "spryker/product-packaging-unit-storage": "^5.3.0"
+        "spryker/product-packaging-unit-storage": "^5.4.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     },
     "suggest": {
