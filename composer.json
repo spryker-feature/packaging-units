@@ -7,14 +7,14 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/product-packaging-unit-widget": "^1.8.0",
-        "spryker/product-packaging-unit": "^4.14.0",
+        "spryker-shop/product-packaging-unit-widget": "^1.9.0",
+        "spryker/product-packaging-unit": "^4.15.0",
         "spryker/product-packaging-unit-data-import": "^2.0.0",
-        "spryker/product-packaging-unit-storage": "^5.4.0"
+        "spryker/product-packaging-unit-storage": "^5.5.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202606.x-dev"
+            "dev-master": "202608.x-dev"
         }
     },
     "suggest": {
